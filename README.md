@@ -17,7 +17,7 @@ The `dbt-opengauss` package contains all of the code enabling dbt to work with a
 
 ## Getting started
 
-- [Install dbt](https://docs.getdbt.com/docs/installation)
+- `pip install dbt-opengauss`
 - Read the [introduction](https://docs.getdbt.com/docs/introduction/) and [viewpoint](https://docs.getdbt.com/docs/about/viewpoint/)
 
 ## Join the dbt Community
