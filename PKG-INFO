@@ -1,0 +1,19 @@
+Metadata-Version: 1.0.2
+Name: dbt-opengauss
+Version: 1.0.1
+Summary: The opengauss adapter plugin for dbt (data build tool)
+Home-page: https://github.com/dbt-labs/dbt-core
+Author: Zhoutao
+Author-email: zhotoa@foxmail.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
